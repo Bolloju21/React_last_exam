@@ -1,0 +1,18 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Watch",
+        "price": 200,
+        "description": "Aesthetic collection"
+      },
+      {
+        "id": 2,
+        "name": "Belts",
+        "price": 400,
+        "description": "Match the vibes"
+      }
+     
+    ]
+  }
+  
